@@ -15,8 +15,6 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 This script copies a source file, appends today's date to the filename, and pastes it into a destination folder. 
 It is designed to be used manually or automated with Windows Task Scheduler to simplify file backups.
 
----
-
 ### How to Use (Manual)
 
 1. Download the script to your desired location.
@@ -24,8 +22,6 @@ It is designed to be used manually or automated with Windows Task Scheduler to s
 3. Replace `placeholder1` with the source file path.
 4. Replace `placeholder2` with the destination folder path where you want the file to be copied.
 5. Save the file and double-click it to run the script.
-
----
 
 ### How to Use (Automatic with Task Scheduler)
 
